@@ -1,0 +1,817 @@
+Abstract
+Alien alloy
+Alien skin
+Antigravity
+Antimatter
+Arcane
+Asphalt
+Astral
+Augmented reality
+Bamboo
+Bark
+Basilisk skin
+Basilisk's mesmerizing gaze
+Beaded
+Bio-luminescent
+Bioglow
+Bioluminescent
+Biomechanical
+Bioprinted
+Bioreactive
+Brick
+Brickwork
+Brushed
+Bumpy
+Caked
+Cans
+Cardboard
+Carpet
+Carved
+Celestial
+Celestial aura
+Centaur hide
+Centaur's hoofed pattern
+Centaur's noble fur
+Chalky
+Charred
+Chevron
+Chimera's fur
+Chimera's intricate pattern
+Chipped
+Chiseled
+Chromatic
+Chrono-fabric
+Chubby
+Circuitry
+Coarse
+Cobblestone
+Concrete
+Concrete
+Corduroy
+Cork-like
+Corrugated Metal
+Cosmic dust
+course
+Cracked
+Craggy
+Creased
+Crinkled
+Crisp
+Crochet
+Crystalline
+Crystalloid
+Curly
+Cushioned
+Cybernetic
+Cyberweb
+Damask
+Dark matter
+Datastream
+Denim
+Dimensional rift
+Dimpled
+Distressed
+Distressed leather
+Djinn's cloud-like fabric
+Djinn's silk
+dragface
+Dragon scale
+Dragonfire-tempered metal
+Dragonforged metal
+Druidic bark
+Dryad's enchanted foliage
+Dryad's leafy texture
+Dryad's mossy touch
+Dwarf-carved rune pattern
+Dwarf-carved stone
+Dwarf-forged steel
+Dwarven iron
+Elastic
+Electric blue
+Electrochromic
+Electrogravitic
+Electroluminescent
+Electromagnetic
+Electrostatic
+Elemental essence
+Elemental's swirling vortex
+Elfwood grain
+Elfwood's ethereal essence
+Elven moonstone
+Elven silk
+Elven silver-threaded silk
+Elven starlight shimmer
+Embellished
+Embossed
+Embroidered
+Enchanted crystal
+Enchanted emerald
+Enchanted ice
+Enchanted moonbeam
+Enchanted oak wood
+Energy field
+Energy matrix
+Energy vortex
+Engraved
+Etched
+Ethereal
+Exoplanetary
+Exoskeletal
+Fabric
+Facade
+Fae ethereal
+Faerie lace
+Faerie-forged silver
+Faerie's delicate embroidery
+Fairy winged
+Faux fur
+Felt-like
+Felted
+Felted
+Fence
+Feywild silk
+Feywild's vibrant tapestry
+Fine
+Fissured
+Floral
+Fluffy
+Fluted
+Force field
+Frayed
+Furrowed
+Furry
+Fuzzy
+Galactic
+Gauzy
+Geometric
+Gilded
+glass 
+Glassy
+Glyphed
+Gnomish gears
+Goblin leather
+Goblin-spiked leather
+Goblin-spun silk
+Goblin's rough-spun fabric
+Golem's stone texture
+Golem's stony engravings
+Gorgon scales
+Gorgon's petrified texture
+Gorgon's serpentine scales
+Gossamer
+Grained
+Grainy
+Granulated
+Grass
+Gravel
+Graviton
+Gravity-defying
+Griffin feathered
+Griffin's golden feather
+Griffin's majestic plume
+Gritty
+Grooved
+Ground
+Hairy
+Hammered
+Haptic
+Haptic feedback
+Hard
+Herringbone
+Holofoil
+Holographic
+Holoscreen
+Honeycomb
+Honeyed
+Hydrodynamic
+Hyperdimensional
+Hyperspace
+Ice
+Illusory
+Infrared
+Inorganic
+Interstellar
+Knit
+Knitted
+Lace
+Lacquered
+Lacy
+Lava
+Leafs, Plant textures
+Leather
+Leathery
+Levitating
+Linen
+Linen-like
+Liquid crystal
+Liquid metal
+Luminescent
+Luminiferous
+Lustrous
+Maglev
+Marble
+Marbled
+Marshmallow-like
+Matte
+Merfolk's iridescent scales
+Merfolk's oceanic texture
+Mermaid scales
+Mesh
+Metal
+Metamaterial
+Microscopic
+Mosaic
+Mossy
+Mottled
+Nano-etched
+Nanotech
+Nebulous
+Neural interface
+Neural networked
+Neuronet
+Neutronium
+Nubby
+Nymph's flowing water
+Nymph's shimmering water
+Nymph's watery reflection
+Ogre hide
+Ogre's bumpy hide
+Ogre's knotted texture
+Optogenetic
+Painted Metal
+Paisley
+Paisley
+Paladin's gleaming armor
+Paladin's radiant glow
+Papery
+Patinaed
+Paving Stone
+Pebbled
+Pebbly
+Peeling
+Perforated
+Phase-shifting
+Phoenix feathered
+Phoenix flame-licked
+Phoenix's fiery radiance
+Phosphorescent
+Photonic
+Pitted
+Pixelated
+Pixie dusted
+Pixie-spun cobweb
+Pixie's iridescent wings
+Plaid
+Plasma
+Plasma-infused
+Plasma-infused
+Plasmatic
+Pleated
+Pliable
+Plush
+Pocked
+Polished
+Polished
+Polycarbonate
+Porous
+Porous
+Powdery
+Prickly
+Programmable
+Puffy
+Pulse-powered
+Punched
+Pyrokinetic
+Quantum
+Quantum entangled
+Quantum tunneling
+Quilted
+Radiant
+Rattan
+Rattan-like
+Raw
+Ribbed
+Rippled
+Road
+rock
+Rock
+Roofing Tiles
+Ropy
+rough
+Rough
+Ruffled
+Rugged
+Rusted
+sand
+Sanded
+Sandstone
+Sandy
+Satin
+Satyr's fur
+Satyr's hide
+Satyr's rustic textured fabric
+Scalloped
+Scaly
+Sequined
+Shaggy
+Shape-shifting
+shattered 
+Sheer
+Shiny
+Silk
+Silky
+Siren's enchanted coral
+Siren's melodious symphony
+Siren's pearl-encrusted
+Sleek
+Slick
+Slippery
+Slubby
+smooth
+Snow
+Soft
+Sonic resonance
+Sorcerer's arcane embroidery
+Sorcerer's spellweave
+Sorceress' celestial pattern
+Sorceress' shimmering veil
+Speckled
+Spongy
+Spotted
+Sprite wings
+Sprite-spun cotton
+Sprite's dew-kissed fabric
+Stellar
+Stiff
+stone
+Stone Wall
+Stretchy
+Striated
+Stucco
+Suede
+Sugary
+Superconductive
+Swirled
+Synthetic
+Tangled
+Techno-glow
+Techno-organic
+Technorganic
+Temporal distortion
+Terrazzo
+Tesseract
+Textured glass
+tile
+Tiled
+Traffic Signs
+Transdimensional
+Translucent
+Transonic
+Troll's rugged hide
+Trollhide
+Trollstone
+Tron-like
+Tufted
+Tulle
+Tumbled
+Tumbled
+Tweed
+Twisted
+Unicorn horned
+Unicorn mane
+Unicorn's mystical aura
+Varios Tiles
+Veined
+Velvet
+Velvet
+Virtual reality
+Walls
+wavy 
+Waxy
+Weathered
+Webbed
+Wicker
+Wiry
+Witch's enchanted velvet
+Witch's spellbook leather
+Witch's velvet
+Wizard's robes
+Wizard's spell-infused texture
+Wizard's starry cloak
+Wizardwood
+Wood
+Woodgrain
+Worn
+Woven
+Wraith's ethereal mist
+Wrinkled
+Wyvern scale
+Wyvern's scaled textureAbstract
+Alien alloy
+Alien skin
+Antigravity
+Antimatter
+Arcane
+Asphalt
+Astral
+Augmented reality
+Bamboo
+Bark
+Basilisk skin
+Basilisk's mesmerizing gaze
+Beaded
+Bio-luminescent
+Bioglow
+Bioluminescent
+Biomechanical
+Bioprinted
+Bioreactive
+Brick
+Brickwork
+Brushed
+Bumpy
+Caked
+Cans
+Cardboard
+Carpet
+Carved
+Celestial
+Celestial aura
+Centaur hide
+Centaur's hoofed pattern
+Centaur's noble fur
+Chalky
+Charred
+Chevron
+Chimera's fur
+Chimera's intricate pattern
+Chipped
+Chiseled
+Chromatic
+Chrono-fabric
+Chubby
+Circuitry
+Coarse
+Cobblestone
+Concrete
+Concrete
+Corduroy
+Cork-like
+Corrugated Metal
+Cosmic dust
+course
+Cracked
+Craggy
+Creased
+Crinkled
+Crisp
+Crochet
+Crystalline
+Crystalloid
+Curly
+Cushioned
+Cybernetic
+Cyberweb
+Damask
+Dark matter
+Datastream
+Denim
+Dimensional rift
+Dimpled
+Distressed
+Distressed leather
+Djinn's cloud-like fabric
+Djinn's silk
+dragface
+Dragon scale
+Dragonfire-tempered metal
+Dragonforged metal
+Druidic bark
+Dryad's enchanted foliage
+Dryad's leafy texture
+Dryad's mossy touch
+Dwarf-carved rune pattern
+Dwarf-carved stone
+Dwarf-forged steel
+Dwarven iron
+Elastic
+Electric blue
+Electrochromic
+Electrogravitic
+Electroluminescent
+Electromagnetic
+Electrostatic
+Elemental essence
+Elemental's swirling vortex
+Elfwood grain
+Elfwood's ethereal essence
+Elven moonstone
+Elven silk
+Elven silver-threaded silk
+Elven starlight shimmer
+Embellished
+Embossed
+Embroidered
+Enchanted crystal
+Enchanted emerald
+Enchanted ice
+Enchanted moonbeam
+Enchanted oak wood
+Energy field
+Energy matrix
+Energy vortex
+Engraved
+Etched
+Ethereal
+Exoplanetary
+Exoskeletal
+Fabric
+Facade
+Fae ethereal
+Faerie lace
+Faerie-forged silver
+Faerie's delicate embroidery
+Fairy winged
+Faux fur
+Felt-like
+Felted
+Felted
+Fence
+Feywild silk
+Feywild's vibrant tapestry
+Fine
+Fissured
+Floral
+Fluffy
+Fluted
+Force field
+Frayed
+Furrowed
+Furry
+Fuzzy
+Galactic
+Gauzy
+Geometric
+Gilded
+glass 
+Glassy
+Glyphed
+Gnomish gears
+Goblin leather
+Goblin-spiked leather
+Goblin-spun silk
+Goblin's rough-spun fabric
+Golem's stone texture
+Golem's stony engravings
+Gorgon scales
+Gorgon's petrified texture
+Gorgon's serpentine scales
+Gossamer
+Grained
+Grainy
+Granulated
+Grass
+Gravel
+Graviton
+Gravity-defying
+Griffin feathered
+Griffin's golden feather
+Griffin's majestic plume
+Gritty
+Grooved
+Ground
+Hairy
+Hammered
+Haptic
+Haptic feedback
+Hard
+Herringbone
+Holofoil
+Holographic
+Holoscreen
+Honeycomb
+Honeyed
+Hydrodynamic
+Hyperdimensional
+Hyperspace
+Ice
+Illusory
+Infrared
+Inorganic
+Interstellar
+Knit
+Knitted
+Lace
+Lacquered
+Lacy
+Lava
+Leafs, Plant textures
+Leather
+Leathery
+Levitating
+Linen
+Linen-like
+Liquid crystal
+Liquid metal
+Luminescent
+Luminiferous
+Lustrous
+Maglev
+Marble
+Marbled
+Marshmallow-like
+Matte
+Merfolk's iridescent scales
+Merfolk's oceanic texture
+Mermaid scales
+Mesh
+Metal
+Metamaterial
+Microscopic
+Mosaic
+Mossy
+Mottled
+Nano-etched
+Nanotech
+Nebulous
+Neural interface
+Neural networked
+Neuronet
+Neutronium
+Nubby
+Nymph's flowing water
+Nymph's shimmering water
+Nymph's watery reflection
+Ogre hide
+Ogre's bumpy hide
+Ogre's knotted texture
+Optogenetic
+Painted Metal
+Paisley
+Paisley
+Paladin's gleaming armor
+Paladin's radiant glow
+Papery
+Patinaed
+Paving Stone
+Pebbled
+Pebbly
+Peeling
+Perforated
+Phase-shifting
+Phoenix feathered
+Phoenix flame-licked
+Phoenix's fiery radiance
+Phosphorescent
+Photonic
+Pitted
+Pixelated
+Pixie dusted
+Pixie-spun cobweb
+Pixie's iridescent wings
+Plaid
+Plasma
+Plasma-infused
+Plasma-infused
+Plasmatic
+Pleated
+Pliable
+Plush
+Pocked
+Polished
+Polished
+Polycarbonate
+Porous
+Porous
+Powdery
+Prickly
+Programmable
+Puffy
+Pulse-powered
+Punched
+Pyrokinetic
+Quantum
+Quantum entangled
+Quantum tunneling
+Quilted
+Radiant
+Rattan
+Rattan-like
+Raw
+Ribbed
+Rippled
+Road
+rock
+Rock
+Roofing Tiles
+Ropy
+rough
+Rough
+Ruffled
+Rugged
+Rusted
+sand
+Sanded
+Sandstone
+Sandy
+Satin
+Satyr's fur
+Satyr's hide
+Satyr's rustic textured fabric
+Scalloped
+Scaly
+Sequined
+Shaggy
+Shape-shifting
+shattered 
+Sheer
+Shiny
+Silk
+Silky
+Siren's enchanted coral
+Siren's melodious symphony
+Siren's pearl-encrusted
+Sleek
+Slick
+Slippery
+Slubby
+smooth
+Snow
+Soft
+Sonic resonance
+Sorcerer's arcane embroidery
+Sorcerer's spellweave
+Sorceress' celestial pattern
+Sorceress' shimmering veil
+Speckled
+Spongy
+Spotted
+Sprite wings
+Sprite-spun cotton
+Sprite's dew-kissed fabric
+Stellar
+Stiff
+stone
+Stone Wall
+Stretchy
+Striated
+Stucco
+Suede
+Sugary
+Superconductive
+Swirled
+Synthetic
+Tangled
+Techno-glow
+Techno-organic
+Technorganic
+Temporal distortion
+Terrazzo
+Tesseract
+Textured glass
+tile
+Tiled
+Traffic Signs
+Transdimensional
+Translucent
+Transonic
+Troll's rugged hide
+Trollhide
+Trollstone
+Tron-like
+Tufted
+Tulle
+Tumbled
+Tumbled
+Tweed
+Twisted
+Unicorn horned
+Unicorn mane
+Unicorn's mystical aura
+Varios Tiles
+Veined
+Velvet
+Velvet
+Virtual reality
+Walls
+wavy 
+Waxy
+Weathered
+Webbed
+Wicker
+Wiry
+Witch's enchanted velvet
+Witch's spellbook leather
+Witch's velvet
+Wizard's robes
+Wizard's spell-infused texture
+Wizard's starry cloak
+Wizardwood
+Wood
+Woodgrain
+Worn
+Woven
+Wraith's ethereal mist
+Wrinkled
+Wyvern scale
+Wyvern's scaled texture
