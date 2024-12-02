@@ -1,0 +1,605 @@
+Lion
+Tiger
+Elephant
+Gorilla
+Dolphin
+Giraffe
+Kangaroo
+Panda
+Polar Bear
+Grizzly Bear
+Black Bear
+Zebra
+Rhino
+Hippo
+Cheetah
+Wolf
+Fox
+Deer
+Moose
+Koala
+Bat
+Otter
+Seal
+Blue Whale
+Humpback Whale
+Orca Whale
+Sloth
+Hedgehog
+Armadillo
+Bison
+Antelope
+Hyena
+Lemur
+Capybara
+Alpaca
+Llama
+Tapir
+Aardvark
+Wombat
+Jaguar
+Lynx
+Ocelot
+Hedgehog
+Ferret
+Mink
+Porcupine
+Meerkat
+Beaver
+Manatee
+Narwhal
+Walrus
+Platypus
+Monkey
+Spider Monkey
+Howler Monkey
+Gibbon
+Addax
+Dik-dik
+Okapi
+Vicuna
+Sable Antelope
+Saola
+Proboscis Monkey
+Colobus Monkey
+Bonobo
+Sifaka
+Slow Loris
+Bush Baby
+Aye-Aye
+Musk Ox
+Caribou
+Dromedary Camel
+Bactrian Camel
+Pine Marten
+Fisher
+Genet
+Margay
+Clouded Leopard
+Sand Cat
+Pallas’s Cat
+Serval
+Asiatic Lion
+Dhole
+Bush Dog
+Raccoon Dog
+Golden Jackal
+Sea Otter
+Giant River Otter
+Fossa
+Quoll
+Numbat
+Tree Kangaroo
+Rock Wallaby
+Bandicoot
+Indian Pangolin
+Chinese Pangolin
+African Wild Dog
+Kudu
+Binturong
+Black-footed Ferret
+Chinchilla
+Agouti
+Paca
+Vole
+Mole Rat
+Onager
+Musk Deer
+Water Buffalo
+Barbary Sheep
+Nilgai
+Vicugna
+Takin
+Indian Gaur
+Banteng
+Saiga Antelope
+European Bison
+Maned Wolf
+Japanese Serow
+Tree Shrew
+Golden Mole
+Colugo
+Flying Lemur
+Indian Elephant
+Dugong
+Quagga
+Mountain Goat
+Bushbuck
+Red Panda
+Snow Leopard
+African Civet
+European Pine Marten
+Chinese Water Deer
+Patagonian Mara
+Rock Cavy
+Springhare
+Indian Porcupine
+Mouse Deer
+Javan Rhinoceros
+Blackbuck
+Pygmy Hippo
+Malayan Tapir
+Indian Pangolin
+Common Genet
+Thylacine
+Tasmanian Tiger
+Eagle
+Parrot
+Penguin
+Owl
+Flamingo
+Peacock
+Swan
+Sparrow
+Crow
+Duck
+Goose
+Albatross
+Ostrich
+Hummingbird
+Falcon
+Heron
+Pigeon
+Toucan
+Vulture
+Woodpecker
+Kiwi
+Stork
+Crane
+Emu
+Puffin
+Kingfisher
+Kite
+Macaw
+Cockatoo
+Cormorant
+Canary
+Quail
+Pelican
+Ibis
+Secretary Bird
+Roadrunner
+Dodo
+Cassowary
+Nightingale
+Blue Jay
+Hoopoe
+Kookaburra
+Lyrebird
+Bowerbird
+Red Kite
+Snowy Owl
+Great Horned Owl
+Harpy Eagle
+Bald Eagle
+Golden Eagle
+Eurasian Magpie
+Red-winged Blackbird
+Starling
+Mynah
+Jacana
+Cuckoo
+Nightjar
+Kestrel
+Peregrine Falcon
+Goshawk
+Merlin
+Sandpiper
+Lapwing
+Pheasant
+Ptarmigan
+Grouse
+Bustard
+Bee-eater
+Shrike
+Trogon
+Secretary Bird
+Guineafowl
+Turaco
+Sunbird
+Hornbill
+Storm Petrel
+Shearwater
+Razorbill
+Blue-footed Booby
+Frigatebird
+Anhinga
+Snakebird
+Puffback Shrike
+Magellanic Penguin
+Little Penguin
+Fairy Penguin
+King Penguin
+Black Grouse
+Capercaillie
+Osprey
+Spoonbill
+Great Egret
+Bittern
+Crested Crane
+Malabar Hornbill
+Wattlebird
+Laughing Kookaburra
+Indian Roller
+Himalayan Monal
+Scarlet Ibis
+Nicobar Pigeon
+Emerald Dove
+Crocodile
+Alligator
+Snake
+Python
+Cobra
+Rattlesnake
+Lizard 
+Iguana
+Gecko
+Komodo Dragon
+Turtle
+Tortoise
+Chameleon
+Skink
+Anaconda
+Boa Constrictor
+Gila Monster
+Monitor Lizard
+Basilisk
+Sea Turtle
+Green Iguana
+Frilled Lizard
+Leopard Gecko
+Bearded Dragon
+Coral Snake
+Viper
+Galapagos Tortoise
+Indian Star Tortoise
+Matamata Turtle
+Softshell Turtle
+Glass Lizard
+Crocodile Monitor
+Sailfin Lizard
+Thorny Devil
+Uromastyx
+Spiny-tailed Iguana
+Desert Horned Lizard
+Reticulated Python
+King Cobra
+Sea Snake
+Black Mamba
+Taipan
+Eastern Diamondback Rattlesnake
+Gaboon Viper
+Cottonmouth
+Bushmaster
+Rainbow Boa
+Burmese Python
+Milk Snake
+King Snake
+Black-headed Python
+Mexican Beaded Lizard
+Water Monitor
+Nile Crocodile
+Cuban Crocodile
+Caiman
+Gavial
+Chinese Alligator
+Desert Tortoise
+Yellow-footed Tortoise
+Red-eared Slider
+Leatherback Sea Turtle
+Loggerhead Turtle
+Diamondback Terrapin
+Collared Lizard
+Argentine Black and White Tegu
+Frog
+Toad
+Salamander
+Newt
+Axolotl
+Bullfrog
+Poison Dart Frog
+Tree Frog
+Hellbender
+Giant Salamander
+Caecilian
+Spadefoot Toad
+Fire-bellied Toad
+Surinam Toad
+Coqui Frog
+Glass Frog
+Darwin’s Frog
+Tiger Salamander
+Olm
+Mexican Mole Salamander
+Purple Frog
+Golden Poison Dart Frog
+Chinese Giant Salamander
+Iberian Ribbed Newt
+Congo Reed Frog
+Tomato Frog
+Red-eyed Tree Frog
+Blue Poison Frog
+Great White Shark
+Hammerhead Shark
+Tiger Shark
+Clownfish
+Salmon
+Tuna
+Trout
+Seahorse
+Swordfish
+Barracuda
+Manta Ray
+Goldfish
+Pufferfish
+Anglerfish
+Guppy
+Betta
+Catfish
+Swordtail
+Grouper
+Eel
+Haddock
+Sturgeon
+Lionfish
+Goby
+Mahi-Mahi
+Marlin
+Zebra Fish
+Archerfish
+Electric Eel
+Mudskipper
+Lamprey
+Hagfish
+Parrotfish
+Surgeonfish
+Snapper
+Grouper
+Barramundi
+Walleye
+Pike
+Arctic Char
+Halibut
+Flounder
+Tarpon
+Bonefish
+Koi
+Paddlefish
+Whale Shark
+Basking Shark
+Greenland Shark
+Lanternfish
+Goblin Shark
+Blue Tang
+Moorish Idol
+Yellowfin Tuna
+Bigeye Tuna
+Wobbegong Shark
+Port Jackson Shark
+Megamouth Shark
+Sleeper Shark
+Thresher Shark
+Horn Shark
+Blue Marlin
+Black Marlin
+Silver Arowana
+Asian Arowana
+Barramundi Cod
+Clown Triggerfish
+Porcupinefish
+Dogfish
+Haddock
+Skate
+Sawfish
+Atlantic Halibut
+Butterfly
+Bee
+Ant
+Beetle
+Dragonfly
+Grasshopper
+Wasp
+Mosquito
+Moth
+Ladybug
+Stink Bug
+Termite
+Praying Mantis
+Firefly
+Cicada
+Aphid
+Cockroach
+Flea
+Dung Beetle
+Earwig
+Leafcutter Ant
+Velvet Ant
+Orchid Mantis
+Stick Insect
+Thorn Bug
+Assassin Bug
+Silverfish
+Water Strider
+Stonefly
+Mayfly
+Lacewing
+Weaver Ant
+Jewel Beetle
+Hercules Beetle
+Rhinoceros Beetle
+Stag Beetle
+Bombardier Beetle
+Glow-worm
+Katydid
+Mole Cricket
+Jewel Wasp
+Goliath Beetle
+Titan Beetle
+Atlas Moth
+Glasswing Butterfly
+Zebra Swallowtail Butterfly
+Army Ant
+Driver Ant
+Bullet Ant
+Fire Ant
+Giant Water Bug
+Scorpionfly
+Devil’s Flower Mantis
+Blue Morpho Butterfly
+Hawk Moth
+Whirligig Beetle
+Lace Bug
+Hercules Moth
+Spider
+Tarantula
+Black Widow
+Scorpion
+Tick
+Mite
+Harvestman (Daddy Longlegs)
+Camel Spider
+Wolf Spider
+Brown Recluse
+Sun Spider
+Tarantula Hawk
+Redback Spider
+Trapdoor Spider
+Peacock Spider
+Orb-weaver Spider
+Huntsman Spider
+Funnel-web Spider
+Vinegaroon
+Pseudoscorpion
+Baboon Spider
+Trapdoor Spider
+Golden Orb Weaver
+Goliath Birdeater
+Camel Spider
+Australian Redback Spider
+Whip Spider
+Desert Scorpion
+Emperor Scorpion
+Hentz Striped Scorpion
+Jellyfish
+Octopus
+Squid
+Crab
+Lobster
+Starfish
+Sea Urchin
+Coral
+Barnacle
+Sea Cucumber
+Sea Anemone
+Horseshoe Crab
+Nautilus
+Clam
+Mussel
+Oyster
+Sea Snail
+Krill
+Plankton
+Sand Dollar
+Blue Ringed Octopus
+Vampire Squid
+Dumbo Octopus
+Cuttlefish
+Feather Star
+Brittle Star
+Box Jellyfish
+Comb Jelly
+Arrow Crab
+Hermit Crab
+Coconut Crab
+Spider Crab
+Giant Squid
+Copepod
+Amphipod
+Isopod
+Lanternfish
+Sardine
+Anchovy
+Blue Glaucus
+Sea Swallow
+Pyrosome
+Salp
+Comb Jellyfish
+Fire Coral
+Flamingo Tongue Snail
+Basket Star
+Acorn Worm
+Crinoid
+Giant Clam
+King Crab
+Decorator Crab
+Japanese Spider Crab
+Yeti Crab
+Antarctic Icefish
+Platypus
+Echidna
+Worm
+Snail
+Slug
+Centipede
+Millipede
+Mole
+Shrew
+Pangolin
+Tasmanian Devil
+Bandicoot
+Dugong
+Civet
+Quokka
+Tenrec
+Okapi
+Rock Hyrax
+Jerboa
+Springbok
+Sea Pen
+Bryozoan
+Horseshoe Shrimp
+Sea Spider
+Tardigrade
+Water Bear
+Velvet Worm
+Flatworm
+Ribbon Worm
+Peanut Worm
+Hagfish
+Lancelet
+Velvet Worm
+Sea Urchin
+Diadema
+Pencil Urchin
+Lamp Shell
+Brachiopod
+Comb Starfish
+Feather Star
+Glass Sponge
+Bryozoan
+Tunicate
+Ribbon Worm
+Peanut Worm
+Pikaia
+Ammonite
+Trilobite
